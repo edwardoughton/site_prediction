@@ -1,4 +1,4 @@
-#Site Prediction
+Site Prediction
 ================
 
 In this repo we build code which can help to predict cellular site density for
@@ -14,7 +14,7 @@ connected to a basic 2G voice phone serice, or indeed to the internet (via 3G, 4
 is highly surprising given how important internet access is in revolutionizing economic
 development opportunities.
 
-##Contributors
+Contributors
 ============
 
 Currently:
